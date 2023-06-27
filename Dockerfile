@@ -1,4 +1,4 @@
-FROM mysql:5.7
+FROM registry.cn-hangzhou.aliyuncs.com/zqqq/mysql:5.7
 
 ARG DATACAP_VERSION=1.10.0
 
